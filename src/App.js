@@ -1,11 +1,8 @@
 import React from 'react';
-
+import Routes from './routes'
 function App() {
   return (
-    <div className="App">
-      <h2>LSX eh mt bom</h2>
-    </div>
+     <Routes></Routes>
   );
 }
-
 export default App;
